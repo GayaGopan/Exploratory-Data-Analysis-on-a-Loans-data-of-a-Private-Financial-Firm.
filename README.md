@@ -8,7 +8,7 @@ Welcome  to the Exploratory Data Analysis on a Loans data of a Private Financial
 (2)  Check the Variables names following the Naming Convention.
 (3) Check the information: Data type Conversions.
 (4) Checking the relevant and irrelevant variables in the first phase of EDA.
-(5) Data Duplicacy: Chech if their is duplicate data or not: DDT ( Data Duplicacy Treatment).
+(5) Data Duplicacy: ChecK if their is duplicate data or not: DDT ( Data Duplicacy Treatment).
 (6) Missing Values Treatment.
 (7) Separating the categorical Variables and Numerical variables into two different datasets for Data Preparations for Data Analysis.
 (8) Filling missing values in Numerical data with the Median values.
